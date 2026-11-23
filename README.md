@@ -8,7 +8,9 @@ Proyecto final de Estructura de Datos I (2026-30), Universidad del Norte. Profes
 
 ## Cómo jugar
 
-Hace falta Python 3.10 o superior.
+En Windows, la forma fácil es descargar `AlzaLaVoz.exe` desde [Releases](https://github.com/Frios89/alza-la-voz/releases/latest) y abrirlo con doble clic. Si Windows muestra "Windows protegió su PC", hay que pulsar Más información y luego Ejecutar de todas formas.
+
+Desde el código hace falta Python 3.10 o superior.
 
 ```
 pip install pygame-ce
@@ -49,6 +51,7 @@ Todas están hechas a mano con nodos en `estructuras.py`, sin usar las listas de
 - `estructuras.py`: las seis estructuras.
 - `arte.py`: personajes, escenarios e iconos dibujados por código, sin imágenes externas.
 - `pruebas/`: pruebas de las estructuras, un bot que juega partidas completas, cinco perfiles de jugador simulados y la medición de balance y rendimiento.
+- `empaquetar/`: lanzador para generar el .exe con PyInstaller (`pyinstaller --onefile --windowed --name AlzaLaVoz --paths .. --add-data "../datos/textos.json;datos" AlzaLaVoz.py`).
 - `informe/`: informe final en formato IEEE (español e inglés) y su fuente LaTeX.
 
 ```
