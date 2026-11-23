@@ -1,0 +1,123 @@
+{
+  "malos": {
+    "burla": [
+      "Ahí viene el raro.",
+      "Te quedó el apodo, jaja.",
+      "Ni sabes jugar.",
+      "Siempre la embarras.",
+      "¿Otra vez tú? Qué pereza.",
+      "Eres el chiste del salón.",
+      "Siempre llegas de último.",
+      "¿Y esos zapatos? Jaja.",
+      "Tus gafas dan risa.",
+      "Qué pelo tan raro.",
+      "¿Te vestiste a oscuras?",
+      "Esa maleta es de bebé.",
+      "Pareces de primaria.",
+      "Jaja, qué ridículo.",
+      "Qué raro eres."
+    ],
+    "exclusion": [
+      "No puedes sentarte aquí.",
+      "Ya estamos completos.",
+      "Nadie te invitó.",
+      "Al cumple no estás invitado.",
+      "Busca otro grupo.",
+      "En el equipo no cabes.",
+      "Hagan como si no estuviera.",
+      "Tú no juegas con nosotros.",
+      "Mejor ni vengas.",
+      "Nadie te va a escoger."
+    ],
+    "rumor": [
+      "¿Supiste lo que hizo Sam?",
+      "Dicen que copió en el examen.",
+      "Me contaron algo de Sam…",
+      "No digas que yo te conté.",
+      "Dicen que lo echaron del colegio.",
+      "Seguro se lo inventó.",
+      "Todos ya lo saben, jaja.",
+      "Reenvía esto a todos.",
+      "Pásalo, pero no digas nada."
+    ],
+    "ciber": [
+      "Te sacamos del grupo.",
+      "Hicimos un grupo sin ti.",
+      "Ya hay stickers con tu cara.",
+      "Publiquemos su foto, jaja.",
+      "Captura y al grupo.",
+      "Te dejamos en visto, jaja.",
+      "Nadie comentó tu foto.",
+      "Tu video ya lo vio todo el salón.",
+      "Encuesta: ¿quién es el más raro?",
+      "Mira lo que subí de ti."
+    ],
+    "presion": [
+      "Ríete, todos se están riendo.",
+      "Si lo defiendes, quedas igual.",
+      "No te metas, no es tu problema.",
+      "Todos lo hacen, no pasa nada.",
+      "Reenvíalo o no eres del parche.",
+      "Mejor quédate callado.",
+      "No seas aguafiestas.",
+      "¿Vas a ser el sapo?"
+    ],
+    "disfrazado": [
+      "Es broma, no seas tan sensible.",
+      "Jaja, te quiero, pero qué oso.",
+      "Solo digo lo que todos piensan.",
+      "No te pongas así, era un chiste.",
+      "Ay, ¿no aguantas nada?",
+      "Jaja, es con cariño, tranqui.",
+      "Te lo digo por tu bien, jaja."
+    ]
+  },
+  "buenos": {
+    "apoyo": [
+      "¿Estás bien? Aquí estoy.",
+      "No estás solo.",
+      "Eso que dijeron no es verdad.",
+      "No es tu culpa.",
+      "Me caes muy bien, de verdad.",
+      "Cuenta conmigo.",
+      "Te creo."
+    ],
+    "invitacion": [
+      "¿Te sientas con nosotros?",
+      "¡Vente a jugar!",
+      "¿Hacemos el trabajo juntos?",
+      "Te guardé un puesto.",
+      "¿Vamos juntos al recreo?",
+      "Te agregué al grupo.",
+      "¿Te sientas conmigo?"
+    ],
+    "defensa": [
+      "Eso no da risa. Paren.",
+      "Con Sam no se metan.",
+      "Yo no voy a reenviar eso.",
+      "Borra eso, no está bien.",
+      "Así no se trata a nadie.",
+      "¿Y si fuera contigo?",
+      "Borré ese meme."
+    ],
+    "empatia": [
+      "¿Quieres hablar?",
+      "Te escucho, sin afán.",
+      "A mí me pasó algo parecido.",
+      "Tus dibujos son geniales.",
+      "Qué bueno tenerte en el salón.",
+      "Me gusta cómo eres.",
+      "¿Cómo estás hoy?"
+    ],
+    "ayuda": [
+      "¿Le contamos a la profe juntos?",
+      "Ya le avisé a un adulto.",
+      "Contar no es ser sapo: es cuidar.",
+      "Vamos donde la orientadora.",
+      "Guardé capturas para reportarlo.",
+      "Bloquea y reporta. Te acompaño.",
+      "Pedir ayuda es de valientes.",
+      "Hay adultos que sí te escuchan."
+    ]
+  }
+}
